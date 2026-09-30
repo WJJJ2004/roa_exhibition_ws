@@ -6,7 +6,7 @@ workspace입니다. Hardware interface와 motion player는 전시용 100 Hz 설�
 
 [RViz 실행 영상](docs/rviz.webm)
 
-자세한 하드웨어 실행 및 안전 절차는 [전체 실행 가이드](docs/전체_실행_가이드.txt)를
+자세한 하드웨어 실행 및 안전 절차는 [전체 실행 가이드](docs/로아_전시회_운영가이드.pdf)를
 참고하세요.
 
 ## Clone
