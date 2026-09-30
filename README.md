@@ -1,10 +1,12 @@
 # ROA 전시용 모션 플레이어
 
+<img width="1200" height="663" alt="rviz" src="https://github.com/user-attachments/assets/0927b525-e69f-4948-8369-748d503291b0" />
+
+---
+
 ROA 21-DOF 로봇에서 게임패드로 인사, 경례, 악수 모션을 실행하기 위한 ROS 2
 workspace입니다. Hardware interface와 motion player는 전시용 100 Hz 설정을
 사용합니다.
-
-[RViz 실행 영상](docs/rviz.webm)
 
 자세한 하드웨어 실행 및 안전 절차는 [전체 실행 가이드](docs/로아_전시회_운영가이드.pdf)를
 참고하세요.
