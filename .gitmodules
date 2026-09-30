@@ -1,0 +1,6 @@
+[submodule "src/robstride_hardware_interface"]
+	path = src/robstride_hardware_interface
+	url = https://github.com/WJJJ2004/robstride_hardware_interface.git
+[submodule "src/roa_motion_player"]
+	path = src/roa_motion_player
+	url = https://github.com/WJJJ2004/roa_motion_player.git
